@@ -30,10 +30,6 @@ An AI-powered interview preparation platform built using Flask, MySQL, Bootstrap
 6. Store Results in MySQL Database
 7. View Historical Performance Dashboard
 
-## Screenshots
-
-(Add screenshots here later)
-
 ## Future Improvements
 
 - Voice-based interviews
